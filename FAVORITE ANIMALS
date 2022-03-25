@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Favorite Animals</title>
+
+    </head>
+    <body>
+        
+        <p>Hello World! My favorite animals are the Elephant, Emperor Penguins, and Doodle dogs!</p>
+        <h1>Elephants</h1> <img src="https://images.immediate.co.uk/production/volatile/sites/23/2021/03/Elephants-in-Buffalo-Springs-National-Reserve-Northern-Kenya.-Robbie-Labanowski_Save-the-Elephants-f25282d.jpg?quality=90&resize=768%2C574"/>
+       <div>
+           <p>Elephants are the largest existing land animals. Three living species are currently recognised: 
+            the African bush elephant, the African forest elephant, and the Asian elephant. They are an 
+            informal grouping within the proboscidean family Elephantidae. <a href="https://en.wikipedia.org/wiki/Elephant">wikipedia</a></p> 
+       </div>
+        
+       <div>
+            <h3>Top 10 Facts About Elephants</h3>
+
+        <ol> 
+            <li>THEY’RE THE WORLD’S LARGEST LAND ANIMAL </li>
+            <li>YOU CAN TELL THE TWO SPECIES APART BY THEIR EARS</li>
+            <li>THEIR TRUNKS HAVE MAD SKILLS</li>
+            <li>THEIR TUSKS ARE ACTUALLY TEETH</li>
+            <li>THEY’VE GOT THICK SKIN</li>
+            <li>ELEPHANTS ARE CONSTANTLY EATING</li>
+            <li>THEY COMMUNICATE THROUGH VIBRATIONS</li>
+            <li>CALVES CAN STAND WITHIN 20 MINUTES OF BIRTH</li>
+            <li>AN ELEPHANT NEVER FORGETS</li>
+            <li>AROUND 90% OF AFRICAN ELEPHANTS HAVE BEEN WIPED OUT IN THE PAST CENTURY</li>
+        </ol>
+
+        </div>
+            
+        
+        <a href="page2.html">Emperor Penguins</a> <br>
+        <a href="page3.html">Doodle Dogs</a>
+
+    </body>
+</html>
