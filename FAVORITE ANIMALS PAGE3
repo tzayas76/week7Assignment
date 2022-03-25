@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Favorite Animals</title>
+
+    </head>
+    <body>
+        <h1>Doodle Dogs</h1> <img src="https://welovedoodles.com/wp-content/uploads/2019/12/goldendoodle-girl-names.jpg"/>
+        <p>A Goldendoodle, also known as the Groodle, is bred from a Golden Retriever and a Poodle. 
+            First widely bred in 1990s, the crossbreed is bred in three different size varieties 
+            corresponding to the size variety of Poodle used as a parent. <a href="https://en.wikipedia.org/wiki/Goldendoodle">wikipedia</a></p>
+        <div>
+            <h3>Fun Facts about Doodle Dogs <a href="https://www.pumpkin.care/blog/19-amazing-facts-about-goldendoodles/">prrs&wags</a></h3> 
+            <p>It’s claimed that Monica Dickens, the great-granddaughter of Charles Dickens, bred the first cross between a Golden Retriever and 
+                a Poodle in 1969. This hybrid didn’t become popular then, but it sure took off in the 1990s! In the 1960s, the Labradoodle and 
+                Cockapoo gained popularity as guide dogs for people with visual impairment. Later on, service dog trainers requested a larger dog, 
+                and Breeders answered the call by combining the Golden Retriever’s sunny disposition with the Poodle’s intelligence and propensity 
+                for low shedding. The dogs they produced are kind, intelligent, allergy-friendly, and larger than both of their predecessors.</p>
+        </div>
+            
+        <div>
+                <h3>Average cost and type</h3>
+            <ul>
+            <li>Golden Doodle</li>
+            
+            
+        </ul>
+            <table>
+            <tr>
+               <th>Product</th>
+                <th>Price</th>
+                <th>Gender</th> 
+            </tr>
+            
+            <td> Golden Doodle</td>
+            <td> $3000.00</td>
+            <td>Male</td> 
+                    
+
+            <tr>
+            <td> Golden Doodle</td>
+            <td> $3500.00</td>
+            <td>Female</td>
+
+            </tr>
+            
+        </table>
+        </div>
+        <a href="index.html">Elephants</a> <br>
+        <a href="page2.html">Emperor Penguins</a>
+        
+
+</body>
+</html>
