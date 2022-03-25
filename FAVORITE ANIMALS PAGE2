@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Favorite Animals</title>
+
+    </head>
+<h1>Emperor Penguins</h1> <img src="https://www.sierraclub.org/sites/www.sierraclub.org/files/sierra/articles/sharing/Penguins%20TN.jpeg"/>
+<p>The emperor penguin is the tallest and heaviest of all living penguin species and is endemic to Antarctica. The male and female are similar 
+    in plumage and size, reaching 100 cm in length and weighing from 22 to 45 kg. <a href="https://en.wikipedia.org/wiki/Emperor_penguin">wikipedia</a></p>
+
+    <div>
+    <h3>Top 10 Emperor Penguin Facts  <a href="https://www.wwf.org.uk/learn/fascinating-facts/emperor-penguins">WWF</a> </h3>
+    <li>WILD EMPEROR PENGUINS ARE ONLY FOUND IN ANTARCTICA</li>   
+    <li>GIANTS OF THE PENGUIN WORLD</li>
+    <li>THERE ARE APPROXIMATELY 595,00 ADULT EMPEROR PENGUINS IN ANTARCTICA</li>
+    <li>EMPEROR PENGUIN COLONIES CAN BE SEEN FROM SPACE</li>
+    <li>PENGUIN LOVE: EMPEROR PENGUIN INCUBATE THEIR EGGS DURING THE LONG WINTER MONTHS</li>
+    <li>COLONIES OF ADULTS AND CHICKS WORK TOGETHER TO HUDDLE FOR WARMTH</li>
+    <li>EMPEROR PEGUINS ARE THE OLYMPIC DIVERS OF THE BIRD WORLD. THE DEEPEST RECORDED DIVE WAS 564 METERS</li>
+    <li>EMPERORS FEED MOSTLY ON ANTARCTIC SILVERFISH AS WELL AS OTHER SPECIES OF FISH, KRILL, AND SOME SQUID</li>
+    <li>MALE EMPEROR PENGUINS WILL NOT EAT FOR UP TO FOUR MONTHS, FROM THE TIME THEY ARRIVE AT THE COLONY TO BREED 
+        UNTIL THE EGG HAS HATCHED AND THE MOTHER RETURNS TO FEED </li>
+    <li>EMPEROR PENGUINS CAN CLIMB STEEP ICE CLIFFS AND HAVE BENN KNOWN TO BREED UP ON ICE-SHELVES</li>
+    </div>
+
+    <a href="index.html">Elephants</a> <br>
+    <a href="page3.html">Doodle Dogs</a>
+</body>
+</html>
